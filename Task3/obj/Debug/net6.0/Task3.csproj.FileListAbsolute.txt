@@ -1,0 +1,15 @@
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+E:\работа с vcode\HomeWork18.04\Task3\bin\Debug\net6.0\Task3.exe
+E:\работа с vcode\HomeWork18.04\Task3\bin\Debug\net6.0\Task3.deps.json
+E:\работа с vcode\HomeWork18.04\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+E:\работа с vcode\HomeWork18.04\Task3\bin\Debug\net6.0\Task3.dll
+E:\работа с vcode\HomeWork18.04\Task3\bin\Debug\net6.0\Task3.pdb
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\Task3.dll
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\refint\Task3.dll
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\Task3.pdb
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+E:\работа с vcode\HomeWork18.04\Task3\obj\Debug\net6.0\ref\Task3.dll
