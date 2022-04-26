@@ -1,14 +1,30 @@
-﻿Console.Write("Введите номер дня недели: ");
-int dayNum = int.Parse(Console.ReadLine());
-string[] Days = { "понедельник", "вторник", "среда", "четверг", "пятница", "суббота", "воскресенье" };
-string result = "";
-
-if (dayNum > 5) 
+Console.Write("Введите номер дня недели: ");
+int number = int.Parse(Console.ReadLine());
+if (number == 1)
 {
-     Console.WriteLine("выходной день");
+    Console.Write("Понедельник, рабочий день");
 }
-else
+if (number == 2)
 {
-    Console.WriteLine("рабочий день");
+    Console.Write("Вторник, рабочий день");
 }
-System.Console.WriteLine($"{dayNum}-й день недели - это {Days[dayNum - 1]}{result}");
+if (number == 3)
+{
+    Console.Write("Среда, рабочий день");
+}
+if (number == 4)
+{
+    Console.Write("Четверг, рабочий день");
+}
+if (number == 5)
+{
+    Console.Write("Пятница, рабочий день");
+}
+if (number == 6)
+{
+    Console.Write("Суббота - выходной!");
+}
+if (number == 7)
+{
+    Console.Write("Воскресенье - выходной!");
+}
