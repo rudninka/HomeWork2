@@ -20,11 +20,11 @@ if (number == 5)
 {
     Console.Write("Пятница, рабочий день");
 }
-if (number == 6)
+else (number == 6)
 {
     Console.Write("Суббота - выходной!");
 }
-if (number == 7)
+else (number == 7)
 {
     Console.Write("Воскресенье - выходной!");
 }
